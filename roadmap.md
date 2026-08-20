@@ -6,12 +6,12 @@ The audit and remediation deadline is 31 October. The August baseline is the onl
 "before" that will ever exist, and it decays: pages change, and a re-scan in November
 measures November. Everything in this phase is time-boxed by that.
 
-- [ ] **Confirm whether SEBI has amended its model Investor Charter.** Criterion S3 is held
-      until this is settled. If SEBI has not amended the template it publishes, an absent
-      right is a finding about the regulator, not the firms. Requires access to
+- [ ] **Resolve [OQ-1](regulation/open-questions.md)** — has SEBI amended its model Investor
+      Charter? Criterion S3 stays held until it is settled. Requires access to
       `sebi.gov.in`.
-- [ ] **Read the 23 May 2025 KYC circular** (SEBI/HO/MIRSD/SECFATF/P/CIR/2025/74) against
-      primary text. It is the only one of the six not yet read in full.
+- [ ] **Resolve [OQ-3](regulation/open-questions.md)** — read the 23 May 2025 KYC circular
+      (SEBI/HO/MIRSD/SECFATF/P/CIR/2025/74) against primary text. The only one of the six
+      not yet read in full.
 - [ ] **Hand-verify the August baseline** and freeze it. Every failure reproduced,
       evidenced, dated.
 - [ ] **Publish the first entity profiles** from the verified baseline, with right of reply

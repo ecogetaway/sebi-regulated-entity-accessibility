@@ -34,7 +34,7 @@ Mobile applications: **not assessed** — out of scope in rubric v0.1.
 | 6 KYC | K2 Disability-status field | | |
 | 7 Support | S1 Accessibility grievance channel | | |
 | 7 Support | S2 SCORES route signposted | | |
-| 7 Support | S3 Charter right | *held* | pending confirmation SEBI has amended its model charter |
+| 7 Support | S3 Charter right | **held** | [OQ-1](../regulation/open-questions.md#oq-1--has-sebi-amended-the-model-investor-charter) — not scored; record the observation, do not grade it |
 | 8 Audit | A1 User testing evidenced | | |
 | 8 Audit | A2 Auditor named and qualified | | |
 | 8 Audit | A3 Findings in user terms | | |

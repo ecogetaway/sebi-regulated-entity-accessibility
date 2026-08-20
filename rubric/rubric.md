@@ -104,7 +104,7 @@ and never before.
 | 4 | Investor journey | B | J1–J10, the standard journey |
 | 5 | Documents and content | A | D1 investor PDFs tagged · D2 Investor Charter accessible · D3 captions and ISL |
 | 6 | KYC and onboarding | A | K1 accessible alternatives published · K2 disability-status field present |
-| 7 | Support and grievance | A | S1 accessibility grievance channel · S2 SCORES route signposted · S3 charter right *(held)* |
+| 7 | Support and grievance | A | S1 accessibility grievance channel · S2 SCORES route signposted · S3 charter right — **held, [OQ-1](../regulation/open-questions.md#oq-1--has-sebi-amended-the-model-investor-charter)** |
 | 8 | Audit, testing, remediation | A | A1 user testing evidenced · A2 auditor named and qualified · A3 findings in user terms · A4 remediation status · A5 cadence |
 | 9 | Training and awareness | A | TR1 training commitment published |
 | 10 | Procurement and vendors | A | V1 procurement policy published |
@@ -123,6 +123,14 @@ you assume exists, or remediation you assume happened.
 
 **2. Absence of evidence is absence of evidence.** It is scored as a 0 on the ladder. It is
 never reported as non-compliance.
+
+**3a. Held is not zero either.** A criterion whose *interpretation* is unresolved — as
+opposed to one that could not be tested — is marked **held**, linked to its entry in
+[`../regulation/open-questions.md`](../regulation/open-questions.md), and excluded from the
+profile. S3 is held under OQ-1: eleven of eleven entities lack the Investor Charter right,
+but SEBI may not have amended the template it publishes, in which case the finding belongs
+to the regulator. Scoring it against entities meanwhile would attribute a regulator's
+omission to eleven firms.
 
 **3. Unmeasured is not zero.** A criterion that could not be tested — no account, blocked to
 automation, internal process — is reported as *unmeasured* and excluded from the profile.

@@ -96,9 +96,9 @@ whether a person can open an account or place an order.
 | — | O22 — SCORES accessibility complaint category | **New** | S2. The SCORES accessibility route is signposted to investors | Website — **P** | Ladder |
 | — | O21 — the right in the Investor Charter | **New** | S3. The Investor Charter carries the digital accessibility right | Charter — **P** | Ladder · **held, see below** |
 
-**S3 is not scored pending confirmation** that SEBI has amended the model Investor Charter
-it publishes. See the open question in
-[`../regulation/obligations.md`](../regulation/obligations.md).
+**S3 is held — not scored.** Pending confirmation that SEBI has amended the model Investor
+Charter it publishes. Full reasoning, and what would resolve it, in
+[`../regulation/open-questions.md`](../regulation/open-questions.md#oq-1--has-sebi-amended-the-model-investor-charter).
 
 ### Dimension 8 — Audit, testing and remediation
 

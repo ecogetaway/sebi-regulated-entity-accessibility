@@ -59,14 +59,13 @@ audit summary naming its auditor and date, a remediation note, a training statem
 is required to. That asymmetry is the research finding this repository exists to document:
 the regulation created a substantial obligation and no public accountability surface.
 
-## Open question
+## Open questions
 
-O21 assumes the digital accessibility right should already appear in Investor Charters.
-Circular 5 ¶2 says the right "will be included in the respective Investor Charters
-applicable to various REs, **published by SEBI**" — the model template is SEBI's to amend.
+Three obligations carry unresolved questions that affect how they are scored or worded.
+They are tracked in [`open-questions.md`](open-questions.md):
 
-No evidence has been found that SEBI has issued a revised model charter. **Until that is
-confirmed, O21 must not be scored against any entity.** If the template has not changed,
-an absent right is a finding about the regulator, not about the firms.
-
-Tracking issue: to be confirmed against SEBI's own investor-charter publications.
+| | Question | Affects |
+|---|---|---|
+| **OQ-1** | Has SEBI amended the model Investor Charter it publishes? | **O21** — criterion S3 is **held, not scored**, until this resolves |
+| **OQ-2** | What do the SCORES accessibility complaint figures show? | nothing scored; would strengthen findings |
+| **OQ-3** | Does the 23 May 2025 KYC circular add obligations not captured here? | **O9**, **O10**, **O11** |

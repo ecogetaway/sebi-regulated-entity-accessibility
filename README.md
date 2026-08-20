@@ -54,7 +54,7 @@ observed against criteria *mapped to* SEBI's requirements — never as non-compl
 
 | Path | Contents |
 |---|---|
-| [`regulation/`](regulation/) | The six circulars, verified against primary text; the 24-obligation register with observability classes |
+| [`regulation/`](regulation/) | The six circulars, verified against primary text; the 24-obligation register with observability classes; the open-questions register |
 | [`rubric/`](rubric/) | The v0.1 rubric, and its traceable derivation from the OSS review rubric |
 | [`methodology/`](methodology/) | The ten-step investor journey protocol; what the method cannot see |
 | [`harness/`](harness/) | Playwright + axe-core scanner, PDF structure checker, scorer |
