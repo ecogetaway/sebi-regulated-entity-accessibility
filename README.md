@@ -60,9 +60,15 @@ observed against criteria *mapped to* SEBI's requirements — never as non-compl
 | [`harness/`](harness/) | Playwright + axe-core scanner, PDF structure checker, scorer |
 | [`entity-profiles/`](entity-profiles/) | Per-entity assessments — **hand-verified only** |
 | [`findings/`](findings/) | Dated harness runs. Inputs, not results |
+| [`guide/`](guide/) | **A plain-language guide for investors** — what you are owed, how to check it, and how to complain |
 
 Start with [`regulation/obligations.md`](regulation/obligations.md) — it is the spine
 everything else maps onto.
+
+**If you are an investor rather than a researcher**, start with
+[`guide/`](guide/) instead. It assumes no technical background and ends with the two things
+you can actually do: six checks you can run yourself, and how to file an accessibility
+complaint that cannot be closed until the barrier is fixed.
 
 ## The research design
 
