@@ -25,6 +25,20 @@ So an investor with a disability, choosing a broker, cannot compare. A journalis
 report. A researcher cannot assess. The entitlement exists and the accountability surface
 does not.
 
+## And the burden is not where the attention is
+
+SEBI regulates several thousand entities. The largest brokers, which this project has
+measured, are the least affected: they have engineering teams and budgets. Most Regulated
+Entities are small — individual investment advisers, research analysts, small brokers.
+
+**No circular contains any proportionality provision.** A search across all four substantive
+circulars for *exempt, proportion, threshold, turnover, net worth* returns nothing. A
+one-person research analyst carries the same obligation as the National Stock Exchange:
+an IAAP-certified audit including usability testing by persons with disabilities,
+remediation, and an annual re-audit.
+
+See [OQ-5](regulation/open-questions.md).
+
 ## What this project does about it
 
 Measures the two things that *are* observable — what an entity discloses, and how its

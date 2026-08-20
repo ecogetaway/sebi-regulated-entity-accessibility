@@ -238,3 +238,60 @@ market survey and the list is certainly incomplete.
 The recurring pattern is worth noting on its own: **vendors advertise a standard SEBI does
 not name.** WCAG 2.2, GIGW 3.0 and IS 17802 with a year attached all appear in marketing
 copy; none appears in the circulars.
+
+---
+
+## OQ-5 — Does the regime scale to the entities it actually covers?
+
+**Status:** Open · raised 20 August 2026
+**Affects:** who the research is about, and who the findings should be about
+
+### The finding that prompts it
+
+**There is no proportionality provision anywhere in the circulars.** Searched across
+2025/111, 2025/121, 2025/131 and the December 2025 clarification for *exempt, proportion,
+threshold, turnover, net worth, small, micro*: **zero matches.**
+
+Circular 2025/111 ¶7 applies the provisions to "all REs". Table D of 2025/131 lists the
+categories reporting directly to SEBI; Investment Advisers and Research Analysts report to
+BSE Ltd. No size threshold appears in any of it.
+
+### Why that matters
+
+SEBI regulates several thousand entities. The ten largest brokers — the sample this project
+has measured — are the **least affected group**: they have engineering teams, compliance
+departments and procurement budgets.
+
+The population is dominated by small entities. Individual Investment Advisers. Research
+Analysts operating alone or in twos. Small brokers, small portfolio managers. For each of
+them the obligation is identical to the National Stock Exchange's: an accessibility audit
+through IAAP-certified professionals, **including usability testing by persons with
+disabilities**, remediation, and an annual re-audit thereafter.
+
+Combined with [OQ-4](#oq-4--are-there-enough-iaap-certified-auditors-in-india-to-meet-31-october-2026)
+— where §5.1's IAAP-only wording may exclude most of the credentialled Indian market — the
+burden lands hardest on the entities least able to carry it, and with the fewest suppliers
+to choose from.
+
+### The question
+
+1. How many entities does SEBI actually regulate, by category? The directory at
+   `sebi.gov.in/sebiweb/other/OtherAction.do?doRecognised=yes` is reachable and lists every
+   category with counts as at 19 August 2026. **Not yet extracted — this should be done.**
+2. What does an IAAP-certified audit with PwD usability testing cost in India?
+3. Is that proportionate for a one-person Research Analyst with a single website?
+
+### Why this changes the project
+
+The story so far has been "large brokers have not done the work". That framing is
+defensible but it targets the group best able to comply, and it misses the harder question:
+**a regulation written for institutions, applied without modification to thousands of
+one-person registrations.**
+
+That is a more useful piece, a fairer one, and it points at something SEBI could act on —
+a proportionate regime, or recognition of DEPwD empanelment alongside IAAP, or a shared audit
+facility for small intermediaries.
+
+**It also changes who is worth talking to.** A large broker routes an enquiry to legal. A
+sole-practitioner Research Analyst facing an audit bill they cannot justify will very likely
+tell you exactly what they think.
