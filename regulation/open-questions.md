@@ -168,7 +168,24 @@ from Annexure I §4 of the 31 July 2025 circular alone.
 **Status:** Open · raised 20 August 2026
 **Affects:** nothing scored. Potentially the strongest finding in the project.
 
-### The question
+### The question — reframed 20 August 2026
+
+The first framing was "are there enough accessibility auditors in India?" That is probably
+the wrong question. A scan of Indian accessibility practitioners on LinkedIn shows a workforce
+holding a **mix of credentials**: IAAP CPACC and WAS, **DHS Trusted Tester** (a US Department
+of Homeland Security certification), and **DEPwD empanelment** under India's own Department
+of Empowerment of Persons with Disabilities. Kotak Securities' published statement names a
+DEPwD-empanelled auditor; enabled.in advertises IAAP; two practitioners in a single search
+page hold DHS Trusted Tester.
+
+So the sharper question is: **does §5.1's wording admit only one of the several credentials
+the Indian market actually holds?** If competent, certified accessibility professionals in
+India are largely credentialled under DEPwD or DHS rather than IAAP, the bottleneck is not a
+shortage of skill — it is a drafting choice that narrows the eligible pool.
+
+That is a constructive finding rather than a critical one: it is something SEBI could fix by
+recognising DEPwD empanelment alongside IAAP, and it would matter most to the smaller
+regulated entities with the least procurement leverage.
 
 Circular 2025/111 §5.1 requires the accessibility audit to be conducted "through
 International Association of Accessibility Professionals ('IAAP')", and §5.4 requires
@@ -200,8 +217,12 @@ from an absent audit.
 ### What would resolve it
 
 - IAAP's public certificant directory, filtered to India, with a retrieval date.
+- The DEPwD list of empanelled accessibility auditors, for comparison.
 - SEBI's published count of registered intermediaries by category.
 - Vendors' own disclosures of team size and certification.
+- **Practitioners themselves.** The people doing this work know what the market holds and
+  whether IAAP certification is the norm or the exception in India. One conversation with a
+  working auditor would answer more than a directory count.
 
 ### Supply-side observations so far
 
