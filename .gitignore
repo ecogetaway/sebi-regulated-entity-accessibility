@@ -2,3 +2,9 @@ node_modules/
 harness/out/
 harness/.auth/
 .DS_Store
+
+# Unplaced article drafts. These live here for convenience but must NOT be
+# committed: publishing a draft to a public repo ends its chances with any
+# outlet that requires first publication rights.
+drafts/
+*.doc
