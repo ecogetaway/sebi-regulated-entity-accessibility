@@ -1,0 +1,16 @@
+{
+  "name": "sebi-a11y-scan",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Measurement harness for SEBI digital-accessibility compliance of investor-facing platforms",
+  "scripts": {
+    "scan": "node scan.mjs",
+    "score": "node score.mjs"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.10.0",
+    "axe-core": "^4.10.0",
+    "playwright": "^1.49.0"
+  }
+}

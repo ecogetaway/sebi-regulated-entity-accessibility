@@ -1,0 +1,4 @@
+node_modules/
+harness/out/
+harness/.auth/
+.DS_Store

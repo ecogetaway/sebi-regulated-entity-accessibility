@@ -1,0 +1,55 @@
+name: Dispute a score
+description: Challenge an assessment in this repository, with evidence
+title: "[Dispute] <entity> — <criterion>"
+labels: ["dispute"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A dispute with evidence is the most useful contribution to this project.
+        If you are the entity assessed, say so — your response is reproduced in full and
+        unedited in the profile, and a demonstrated error is corrected with the correction
+        noted, never silently.
+  - type: input
+    id: entity
+    attributes:
+      label: Entity
+      placeholder: e.g. Example Securities Limited
+    validations: {required: true}
+  - type: input
+    id: criterion
+    attributes:
+      label: Criterion or finding disputed
+      placeholder: e.g. D1 investor PDFs tagged / T3 reflow at 320px
+    validations: {required: true}
+  - type: dropdown
+    id: relationship
+    attributes:
+      label: Your relationship to the entity
+      options:
+        - I work for the entity assessed
+        - I am an investor or customer
+        - Independent researcher or practitioner
+        - Other / prefer not to say
+    validations: {required: true}
+  - type: textarea
+    id: claim
+    attributes:
+      label: What is wrong
+      description: What does the assessment say, and what do you say instead?
+    validations: {required: true}
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: |
+        URLs, screenshots, the assistive technology and version used, steps to reproduce.
+        If the platform has changed since the assessment date, say when it changed.
+    validations: {required: true}
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Please confirm
+      options:
+        - label: I understand this repository does not assess SEBI compliance, and makes no compliance claim about any entity
+          required: true

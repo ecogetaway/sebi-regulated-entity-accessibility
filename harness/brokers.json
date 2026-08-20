@@ -1,0 +1,104 @@
+{
+  "_source": {
+    "ranking": "NSE active clients, June 2026",
+    "cited_from": "https://startuptalky.com/india-stock-broking-market-june-2026-analysis/",
+    "warning": "Secondary source. Client counts disagree with other aggregators (one gives Zerodha 79.5 lakh vs 68.0 lakh here). VERIFY against NSE's own published member-wise active-client data before publishing any ranking or count."
+  },
+  "brokers": [
+    {
+      "rank": 1,
+      "name": "Groww",
+      "entity": "Groww Invest Tech Private Limited",
+      "home": "https://groww.in/",
+      "active_clients": 13053752,
+      "aliases": [
+        "groww.in"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Zerodha",
+      "entity": "Zerodha Broking Limited",
+      "home": "https://zerodha.com/",
+      "active_clients": 6801078
+    },
+    {
+      "rank": 3,
+      "name": "Angel One",
+      "entity": "Angel One Limited",
+      "home": "https://www.angelone.in/",
+      "active_clients": 6633833,
+      "aliases": [
+        "angelone.in",
+        "angelbroking.com"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "ICICI Securities",
+      "entity": "ICICI Securities Limited",
+      "home": "https://www.icicidirect.com/",
+      "active_clients": 2121076
+    },
+    {
+      "rank": 5,
+      "name": "Upstox",
+      "entity": "RKSV Securities India Private Limited",
+      "home": "https://upstox.com/",
+      "active_clients": 1887312
+    },
+    {
+      "rank": 6,
+      "name": "Kotak Securities",
+      "entity": "Kotak Securities Limited",
+      "home": "https://www.kotaksecurities.com/",
+      "active_clients": 1379677,
+      "aliases": [
+        "kotakneo.com"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "HDFC Securities",
+      "entity": "HDFC Securities Limited",
+      "home": "https://www.hdfcsec.com/",
+      "active_clients": 1344282
+    },
+    {
+      "rank": 8,
+      "name": "SBI Securities",
+      "entity": "SBI Securities Limited",
+      "home": "https://www.sbisecurities.in/",
+      "active_clients": 1117736
+    },
+    {
+      "rank": 9,
+      "name": "Dhan",
+      "entity": "Raise Securities Private Limited",
+      "home": "https://dhan.co/",
+      "active_clients": 1073293,
+      "aliases": [
+        "dhan.co",
+        "login.dhan.co"
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "Motilal Oswal",
+      "entity": "Motilal Oswal Financial Services Limited",
+      "home": "https://www.motilaloswal.com/",
+      "active_clients": 898736
+    },
+    {
+      "rank": 11,
+      "name": "5paisa",
+      "entity": "5paisa Capital Limited",
+      "home": "https://www.5paisa.com/",
+      "active_clients": null,
+      "note": "Outside the top 10 by active clients; included because authenticated access is available, which is the only way to test the post-login trading surface."
+    }
+  ],
+  "_notes": {
+    "aliases": "Several brokers serve the retail platform from a second registrable domain (Kotak Securities -> kotakneo.com). Those are the same regulated entity, so the offsite QA guard must not exclude them."
+  }
+}
