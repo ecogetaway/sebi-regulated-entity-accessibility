@@ -110,6 +110,19 @@ later, ten weeks before the compliance deadline.
 strong enough that it deserves to be closed properly rather than assumed. But the entry has
 moved from "no evidence either way" to "substantial evidence in one direction".
 
+### Evidence that cuts the other way
+
+A compliance practitioner writing publicly on the December 2025 clarification (CS Kruti
+Gogri, LinkedIn, seen 20 Aug 2026) describes it as requiring that **Regulated Entities add**
+an "Investors' Right to Digital Accessibility" section to their Investor Charters — an
+entity obligation, not a regulator one.
+
+That is one practitioner reading, retrieved through a page that may not have rendered fully,
+so it is indicative rather than quotable. But it shows the ambiguity is genuine and read both
+ways by people whose job is to read it. **It weakens the confidence of the "this is SEBI's
+omission" reading**, and is a reason to close OQ-1 properly rather than settle it by
+inference.
+
 ### Note on secondary coverage
 
 Several published guides state that SEBI "updated its Investor Charters", in the past tense.
