@@ -10,7 +10,7 @@ Resolving one of these is among the most useful contributions anyone can make.
 
 ## OQ-1 — Has SEBI amended the model Investor Charter?
 
-**Status:** Open · raised 20 August 2026
+**Status:** Open, but substantially advanced · raised 20 August 2026 · evidence added 20 August 2026
 **Affects:** criterion **S3** (dimension 7), obligation **O21**
 **Effect:** S3 is **held — not scored against any entity** until this resolves.
 
@@ -51,10 +51,23 @@ to prevent, so the criterion stays held until the question is settled.
 
 Any one of:
 
-- **SEBI's own published Investor Charters at `https://investor.sebi.gov.in/Investor-charter.html`**,
-  checked for the digital accessibility right and dated. This is the most direct check.
-  The entire `sebi.gov.in` domain — including the `investor.` and `scores.` subdomains —
-  was unreachable from the machine used for this work, so it remains outstanding.
+- ~~SEBI's own published Investor Charter page~~ — **done, see the evidence table.**
+- The SEBI circulars listing for **December 2025 – May 2026**, checked for any Investor
+  Charter circular. This is the one remaining gap; SEBI's paginated listing and its POST
+  search both resisted automated querying (the search endpoint returns HTTP 530).
+
+### Reaching sebi.gov.in
+
+`sebi.gov.in` is **not blocked** — it resolves fine through a public resolver and serves
+normally. The failure was local DNS returning NXDOMAIN. Any fetch works with an explicit
+resolve:
+
+```bash
+curl --resolve www.sebi.gov.in:443:202.191.181.158 https://www.sebi.gov.in/...
+curl --resolve investor.sebi.gov.in:443:202.191.181.30 https://investor.sebi.gov.in/...
+```
+
+Re-check the addresses before relying on them; they are not guaranteed stable.
 - A circular or press release amending the model charter after 8 December 2025.
 - An Investor Charter published by *any* Regulated Entity that carries the right — which
   would prove an updated template exists.
@@ -79,12 +92,23 @@ across specialist sources over six months is worth something, even though it pro
 | BarrierBreak, "SEBI Issues Clarification…" | published 09 Dec 2025, **last updated 29 May 2026** | Still "will now be included in every Investor Charter applicable to REs". Cites no amended charter, and gives REs no instruction or deadline to update their own |
 | Other vendor and law-firm coverage | Dec 2025 – Aug 2026 | Every instance traces back to the same December sentence. None cites an amended charter |
 | This project's August 2026 baseline | 20 Aug 2026 | 0 of 11 broker charters carry the right; all are the standard SEBI template verbatim |
+| **SEBI's own Investor Charter page**, `investor.sebi.gov.in/Investor-charter.html` | retrieved 20 Aug 2026 | **64,777 characters of charter text containing zero occurrences of "digital accessibility", "disability", or accessibility as a right.** The only matches for "access" are "access to clear and concise information" and an e-CAS reference |
+| **SEBI/HO/MIRSD/MIRSD-PoD1/P/CIR/2025/22, "Investor Charter for Stock Brokers"** | **21 Feb 2025** | The most recent Investor Charter circular for stock brokers that can be located. It **predates the December 2025 clarification by nine months** |
+| SEBI circulars listing, May–Aug 2026 | retrieved 20 Aug 2026 | No Investor Charter circular of any kind in that window |
 
-The BarrierBreak row is the most useful. A specialist accessibility firm revisited that post
-**nearly six months after publication** and still had nothing to report beyond the original
-future-tense sentence — and told Regulated Entities nothing about updating their own
-charters, which is what you would expect if the obligation sits with SEBI rather than with
-them.
+The two strongest rows are SEBI's own. **SEBI's published Investor Charter contains no
+accessibility right at all**, and the most recent model charter circular for stock brokers
+predates the clarification that promised the right by nine months.
+
+Taken together the evidence now points clearly one way: **SEBI appears not to have amended
+the Investor Charter it publishes.** If that holds, the finding is about the regulator —
+eleven brokers are correctly using the template their regulator gives them, and a right
+SEBI announced in December 2025 has not reached a single investor charter eight months
+later, ten weeks before the compliance deadline.
+
+**S3 stays held.** One window is unchecked — December 2025 to May 2026 — and the claim is
+strong enough that it deserves to be closed properly rather than assumed. But the entry has
+moved from "no evidence either way" to "substantial evidence in one direction".
 
 ### Note on secondary coverage
 
@@ -96,7 +120,7 @@ cites an amended charter. **Treat the past-tense claim as unsupported** until OQ
 
 ## OQ-2 — What do the SCORES accessibility complaint figures show?
 
-**Status:** Open · raised 20 August 2026
+**Status:** Open, but substantially advanced · raised 20 August 2026 · evidence added 20 August 2026
 **Affects:** nothing scored; would materially strengthen published findings
 
 The December 2025 clarification confirms an "Accessibility" complaint category already
@@ -113,7 +137,7 @@ an RTI request.
 
 ## OQ-3 — Does the 23 May 2025 KYC circular add obligations not captured here?
 
-**Status:** Open · raised 20 August 2026
+**Status:** Open, but substantially advanced · raised 20 August 2026 · evidence added 20 August 2026
 **Affects:** obligations **O9**, **O10**, **O11**; possibly adds new ones
 
 SEBI/HO/MIRSD/SECFATF/P/CIR/2025/74 is the first of the six circulars and the only one not
