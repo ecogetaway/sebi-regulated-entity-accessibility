@@ -11,6 +11,16 @@ success criteria and some of the harness's heuristics produce false positives.
 Profiles name real companies. Each one carries a right of reply, and each one ends with an
 explicit statement of what it does not claim.
 
-| Entity | Category | Date | Score A profile | First blocking step |
-|---|---|---|---|---|
-| _none yet_ | | | | |
+Each entity gets its own folder: the walkthrough in Markdown, a `.docx` of the same
+document for circulation, and — once the gates below are cleared — a scored profile.
+
+| Entity | Category | Assessed | Status |
+|---|---|---|---|
+| [Motilal Oswal](motilal-oswal/) | Stock broker | 20 Aug 2026 | Working evidence. Not scored; right of reply not yet offered |
+
+## The two gates before any folder becomes a scored profile
+
+1. **Manual reproduction** of every scan finding to be relied on. Automated rules cover a
+   minority of WCAG success criteria and some harness heuristics produce false positives.
+2. **Right of reply.** The entity is given notice and an opportunity to respond before
+   publication of a score, and any response is reproduced in full and unedited.

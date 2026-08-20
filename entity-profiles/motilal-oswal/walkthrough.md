@@ -154,7 +154,7 @@ faith by a standard office tool — which is exactly what the Word-produced file
 
 ## Item 5 — Digital accessibility right in the Investor Charter (criterion S3)
 
-**Not scored. Held under [OQ-1](../regulation/open-questions.md).**
+**Not scored. Held under [OQ-1](../../regulation/open-questions.md).**
 
 The right is absent from this entity's charter, as it is from all ten checked. But the
 December 2025 clarification says the right will appear in the charters *"published by SEBI"* —
@@ -208,12 +208,19 @@ Two rules follow, and both are now in the harness notes:
 
 ---
 
-## Right of reply
+## Right of reply — status, stated accurately
 
-Motilal Oswal Financial Services Limited has **not** been contacted as at 20 August 2026.
-No finding here will be published before the entity has been given notice and an opportunity
-to respond, and any response will be reproduced in full and unedited.
+Motilal Oswal Financial Services Limited has **not been contacted** as at 20 August 2026.
+
+This document is published as **working evidence**, not as a finished assessment: it exists
+so that the method can be inspected and disputed before any conclusion is drawn from it. It
+carries no score and no compliance determination.
+
+**Before any of this appears as a scored entity profile, or in any article, the entity will
+be given notice and an opportunity to respond**, and any response will be reproduced in full
+and unedited alongside the findings. That step has not yet been taken and is recorded here
+as outstanding.
 
 Corrections may be raised at any time via the
-[score dispute form](../.github/ISSUE_TEMPLATE/dispute-a-score.yml). A demonstrated error is
-corrected with the correction noted, never silently.
+[score dispute form](../../.github/ISSUE_TEMPLATE/dispute-a-score.yml). A demonstrated error
+is corrected with the correction noted, never silently.
