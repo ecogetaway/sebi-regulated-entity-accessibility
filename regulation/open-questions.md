@@ -51,9 +51,10 @@ to prevent, so the criterion stays held until the question is settled.
 
 Any one of:
 
-- SEBI's own published Investor Charter annexures, checked for the digital accessibility
-  right and dated. Requires access to `sebi.gov.in`, which was not reachable from the
-  machine used for this work.
+- **SEBI's own published Investor Charters at `https://investor.sebi.gov.in/Investor-charter.html`**,
+  checked for the digital accessibility right and dated. This is the most direct check.
+  The entire `sebi.gov.in` domain — including the `investor.` and `scores.` subdomains —
+  was unreachable from the machine used for this work, so it remains outstanding.
 - A circular or press release amending the model charter after 8 December 2025.
 - An Investor Charter published by *any* Regulated Entity that carries the right — which
   would prove an updated template exists.
@@ -67,11 +68,29 @@ Update this entry, then update criterion S3 in
 S3 across all existing entity profiles. **Do not backfill silently** — note the date the
 question resolved and that scores changed as a result.
 
+### Evidence gathered so far
+
+All of it is negative, and none of it is conclusive. Recorded because absence of evidence
+across specialist sources over six months is worth something, even though it proves nothing.
+
+| Source | Date | What it says about the charter |
+|---|---|---|
+| SEBI clarification ¶2 | 08 Dec 2025 | "**will be** included … published by SEBI" — future tense, and SEBI's own act |
+| BarrierBreak, "SEBI Issues Clarification…" | published 09 Dec 2025, **last updated 29 May 2026** | Still "will now be included in every Investor Charter applicable to REs". Cites no amended charter, and gives REs no instruction or deadline to update their own |
+| Other vendor and law-firm coverage | Dec 2025 – Aug 2026 | Every instance traces back to the same December sentence. None cites an amended charter |
+| This project's August 2026 baseline | 20 Aug 2026 | 0 of 11 broker charters carry the right; all are the standard SEBI template verbatim |
+
+The BarrierBreak row is the most useful. A specialist accessibility firm revisited that post
+**nearly six months after publication** and still had nothing to report beyond the original
+future-tense sentence — and told Regulated Entities nothing about updating their own
+charters, which is what you would expect if the obligation sits with SEBI rather than with
+them.
+
 ### Note on secondary coverage
 
 Several published guides state that SEBI "updated its Investor Charters", in the past tense.
 Every one traced back to the December clarification's future-tense sentence above. None
-cites an amended charter. Treat the past-tense claim as unsupported until OQ-1 resolves.
+cites an amended charter. **Treat the past-tense claim as unsupported** until OQ-1 resolves.
 
 ---
 
