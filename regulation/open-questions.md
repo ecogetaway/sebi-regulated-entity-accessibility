@@ -147,3 +147,60 @@ from Annexure I §4 of the 31 July 2025 circular alone.
 **What would resolve it:** reading the circular. A mirror is at
 `nsdl.co.in/downloadables/pdf/2025-0064-Policy-SEBI_circular_regarding_Accessibility_and_Inclusiveness_of_Digital_KYC_to_Persons_with_Disabilities.pdf`
 — the host refused connections during the initial pass; retry, or use another mirror.
+
+---
+
+## OQ-4 — Are there enough IAAP-certified auditors in India to meet 31 October 2026?
+
+**Status:** Open · raised 20 August 2026
+**Affects:** nothing scored. Potentially the strongest finding in the project.
+
+### The question
+
+Circular 2025/111 §5.1 requires the accessibility audit to be conducted "through
+International Association of Accessibility Professionals ('IAAP')", and §5.4 requires
+annual audits "through IAAP certified accessibility professionals". The December 2025
+clarification softened the appointment *deadline* but kept the requirement for certified
+professionals.
+
+SEBI regulates several thousand entities — every stock broker, depository participant,
+mutual fund, AMC, portfolio manager, investment adviser, research analyst, RTA, KRA,
+merchant banker, credit rating agency, AIF and custodian, plus the MIIs. Each needs an
+audit of every investor-facing platform by **31 October 2026**.
+
+IAAP certifies **individuals** — CPACC, WAS, CPABE — and publishes a certificant directory.
+
+**How many IAAP-certified professionals are there in India, and is the arithmetic
+survivable?**
+
+If the ratio of entities to certified auditors is extreme, the deadline was not
+achievable at the moment it was set, regardless of any entity's diligence. That reframes
+the whole compliance question and is checkable against two public numbers.
+
+### Why it matters for how findings are worded
+
+If audit capacity is the binding constraint, an entity without a completed audit may be
+constrained rather than negligent. The rubric already refuses to call anyone
+non-compliant; this would add a second reason to be careful about *inferring* indifference
+from an absent audit.
+
+### What would resolve it
+
+- IAAP's public certificant directory, filtered to India, with a retrieval date.
+- SEBI's published count of registered intermediaries by category.
+- Vendors' own disclosures of team size and certification.
+
+### Supply-side observations so far
+
+Three firms marketing SEBI accessibility audits have been identified. This is not a
+market survey and the list is certainly incomplete.
+
+| Firm | Claim | Notes |
+|---|---|---|
+| Pivotal Accessibility | "DEPwD empanelled auditor" | Named by Kotak Securities in its published accessibility statement. **DEPwD empanelment is not IAAP certification** — the circular names IAAP |
+| BarrierBreak | IAAP organisational member | Publishes the most complete SEBI explainer in the field; that guide carries the superseded July deadline |
+| Enabled (an initiative of TenthPlanet, Chennai) | "IAAP Certified" | Maps its service to SEBI's Table C3 / C4 formats, which is accurate. But **IAAP certifies individuals, not companies**, so a corporate "IAAP Certified" claim does not by itself evidence what §5.1 requires. Markets "WCAG 2.2 AA"; SEBI names 2.1 or latest |
+
+The recurring pattern is worth noting on its own: **vendors advertise a standard SEBI does
+not name.** WCAG 2.2, GIGW 3.0 and IS 17802 with a year attached all appear in marketing
+copy; none appears in the circulars.

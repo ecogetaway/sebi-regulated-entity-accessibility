@@ -69,3 +69,4 @@ They are tracked in [`open-questions.md`](open-questions.md):
 | **OQ-1** | Has SEBI amended the model Investor Charter it publishes? | **O21** — criterion S3 is **held, not scored**, until this resolves |
 | **OQ-2** | What do the SCORES accessibility complaint figures show? | nothing scored; would strengthen findings |
 | **OQ-3** | Does the 23 May 2025 KYC circular add obligations not captured here? | **O9**, **O10**, **O11** |
+| **OQ-4** | Are there enough IAAP-certified auditors in India to meet 31 Oct 2026? | nothing scored; affects how an absent audit is interpreted |
