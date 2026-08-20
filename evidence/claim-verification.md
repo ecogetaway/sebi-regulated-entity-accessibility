@@ -42,14 +42,31 @@ Four claims did not, and are recorded below as corrected.
 | C2 | The most recent Investor Charter circular for stock brokers is 21 Feb 2025 | ⚠️ | SEBI/HO/MIRSD/MIRSD-PoD1/P/CIR/2025/22 located. **Dec 2025 – May 2026 not exhaustively searched** — SEBI's paginated listing did not page, and its POST search returns HTTP 530. Keep the hedge "that I can locate" |
 | C3 | **"Eleven brokers' charters"** | ❌ | **Ten.** 5paisa returns HTTP 403 to automated agents and no charter link was retrievable. **Corrected throughout** |
 | C4 | None of the charters contains the right | ✅ | 32 charter documents (HTML + linked charter PDFs) across 10 brokers, 414,000 characters of text, whitespace-normalised. **Zero** matches for "digital accessib" |
-| C5 | **"Every charter is the standard SEBI template, word for word"** | ❌ | Unsupported. Only **7 of 10** carry the legacy clause XVII. **Corrected to** the claim actually evidenced: none contains the right |
+| C5 | **"Every charter is the standard SEBI template, word for word"** | ❌ | Unsupported. Only **7 of 10** carry the legacy clause XVII (whitespace-normalised count). **Corrected to** the claim actually evidenced: none contains the right |
 | C6 | Corpus adequacy | ⚠️ | Kotak (2,728 chars) and HDFC Securities (5,874) returned thin corpora — likely a landing page rather than the full charter. The other eight range from 22,183 to 91,533 characters. **Treat those two as less conclusive** and say so |
 | C7 | "In one broker's charter neither 'accessib' nor 'disab' appears" | ✅ | Angel One, 34,416 characters, neither string present. (HDFC Securities also, but see C6) |
 
 **A methodology note worth keeping.** The first run of this check reported 6 of 10 carrying
 clause XVII. It was 7. `pdftotext` line-wraps, and the phrase "…even if / differently abled"
 broke the regex across a newline. Normalise whitespace before matching any multi-word phrase
-in extracted PDF text.
+in extracted PDF text. The stored `charter-verification.json` has since been recomputed.
+
+## Claims made in working discussion, checked and mostly withdrawn
+
+These were never published. They are recorded because a claim that fails should leave a trace.
+
+| # | Claim | Status | Evidence |
+|---|---|---|---|
+| K1 | "Kotak has the lowest critical-violation density" | ❌ | **False.** Four brokers sit at 0.00/1k; Kotak is fifth at 0.21 |
+| K2 | "Kotak has no failing charter PDFs" | ❌ | **Misleading.** Kotak had **zero** charter PDFs tested. 0/0 is not a pass — same for Zerodha, HDFC and Dhan |
+| K3 | Kotak has the lowest serious-violation density | ✅ | 2.21/1k, lowest of ten — but subject to S1 below |
+| K4 | Kotak is the only broker with a published accessibility statement | ✅ | Link enumeration across ten home pages |
+| K5 | **"Kotak is best at nearly everything"** | ❌ | Two of four supporting claims fail. Only K3 and K4 survive. **Withdrawn** |
+| K6 | "Disclosure does not predict artifact quality" | ⏳ | Spearman ρ = 0.30, weakly *positive*. Band A has near-zero variance — 7 of 10 measured brokers score nil — so the correlation is not interpretable at n=10. **Hypothesis not supported** |
+| K7 | Band A cannot carry a scored article | ✅ | Range 0/6 to 1/6; seven of ten score zero |
+| K8 | Band B has a fortyfold spread in serious-violation density | ✅ | 2.21 to 89.69 per 1,000 DOM nodes — subject to S1 |
+| X1 | **This project's own verification workbook, first build** | ❌ | Three errors on review: carried the un-normalised clause count; computed the untagged-PDF share on the wrong basis; and **counted 5paisa's unmeasured Band A as a zero** — the exact error the rubric forbids. All three corrected |
+| S1 | All axe, reflow, text-spacing and focus-visibility results | ⏳ | **No manual reproduction pass has been run. Nothing from the scan may be published until it has** |
 
 ## Disclosure findings
 
@@ -61,7 +78,7 @@ in extracted PDF text.
 | D4 | **Kotak's statement is thin** | ⚠️ | **Ungenerous and corrected.** It also declares scope (Kotak Neo App, website pre- and post-login, DIY account opening, KINSITE), states a phased remediation roadmap, carries a **Known Limitations** section for third-party components, and gives a feedback route. That is a materially better disclosure than the sample's, and the piece must say so before noting what is missing |
 | D5 | SEBI's circular specifies IAAP; Pivotal is described as DEPwD-empanelled | ✅ | Both verbatim from their respective sources. **State the difference; do not imply Pivotal is unqualified** — DEPwD empanelment is a real credential, simply not the one §5.1 names |
 | D6 | UTI AMC's BRSR says it is "progressively working towards enhancing digital accessibility in line with the Web Content Accessibility Guidelines (WCAG)" | ✅ | Verbatim from the filed PDF, ref UTI/AMC/CS/SE/2026-27/0682, 24 June 2026, with independent assurance |
-| D7 | ~a third of investor PDFs are untagged | ✅ | 31 of 84 retrieved PDFs lack a structure tree = 36.9% |
+| D7 | ~a third of investor PDFs are untagged | ⚠️ | **State the basis.** 25 of 76 (32.9%) counting only PDFs hosted on the brokers' own domains — the basis the article's wording implies. 31 of 84 (36.9%) including third-party hosts |
 | D8 | SEBI's own circular PDFs are tagged | ⚠️ | **Three** checked (2025/111, 2025/131, Dec 2025 clarification): all have structure tree, Marked flag and language. Say "the circulars I checked", not "SEBI's circulars" |
 
 ## Claims about other people's work
