@@ -224,6 +224,34 @@ from an absent audit.
   whether IAAP certification is the norm or the exception in India. One conversation with a
   working auditor would answer more than a directory count.
 
+### First practitioner evidence — 20 August 2026
+
+An **IAAP-WAS certified accessibility practitioner working in India**, asked directly whether
+IAAP certification is the norm or the exception here, replied in substance:
+
+- IAAP is "the regulatory ideal but not yet the norm";
+- most audits are still done by **DHS Trusted Testers** — noted as *free and easier to scale* —
+  or by **DEPwD-empanelled firms**, which dominate the government sector;
+- the IAAP pool in India is "smaller but growing".
+
+**Weight to give it.** One practitioner, offering a professional impression rather than data,
+and explicitly hedged. It is *not* a market survey. But it is worth more than a neutral source
+would be, because the respondent holds IAAP-WAS and is reporting that her own credential is
+not the norm — an answer against her own interest.
+
+**What it establishes, if it holds up.** SEBI's §5.1 names the credential with the smallest
+pool in India, while the market is served mainly by two others. That is a constraint created
+by drafting, not by capacity — and the mechanism is cost: DHS Trusted Tester is free, IAAP
+certification is not.
+
+**Attribution status: NOT YET GRANTED.** The practitioner has not been asked whether she may
+be named. She is deliberately unnamed here and must stay unnamed until she agrees. Anyone
+working from this file: do not attribute this without consent on record.
+
+**Still needed to move this from indicative to established:** the IAAP certificant directory
+count for India, the DEPwD empanelment list for comparison, and two or three more practitioner
+views. One reply is a lead, not a finding.
+
 ### Supply-side observations so far
 
 Three firms marketing SEBI accessibility audits have been identified. This is not a
