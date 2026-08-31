@@ -218,3 +218,38 @@ disclosure as though it were accessibility would rank it near the bottom — alo
 broker that fails a Level A criterion on every page.
 
 That is the case against the rubric as I first built it, and it is why it changes.
+
+
+---
+
+# What the replies show — three firms, 27–31 August 2026
+
+Four entities were written to as a client on 20 August. Three have responded.
+
+| Firm | Response | What it answered |
+|---|---|---|
+| **Zerodha** | Substantive | Acknowledged the `lang` finding without disputing it. **Admitted** it has no accessibility-specific grievance channel. Disclosed an Accessibility mode on Kite, which we verified and which corrects our own ranking. Nodal officer question unanswered |
+| **5paisa** | General | Commitment to compliance, review "in progress", PDF observations "taken note of", cites the 31 October extension. No question answered specifically |
+| **ICICI Securities** | Holding | Acknowledged 29 Aug via ICICI Bank's Office of Head Service Quality; referred internally to ICICI Securities. Nothing answered |
+| **HDFC Securities** | None yet | |
+
+## The pattern worth noting
+
+**The most specific question produced the most specific answer.** Zerodha was asked about one
+attribute in one HTML tag, and replied about that attribute, admitted a second gap, and
+volunteered a third fact we did not know. 5paisa was asked four broader questions and replied
+in general terms.
+
+That is a finding about method rather than about firms: a precise, checkable, cheap-to-fix
+observation is hard to answer with boilerplate. It is worth carrying into any further
+enquiries.
+
+## What none of them did
+
+No firm named a Nodal Officer for digital accessibility. No firm named an auditor or an audit
+date. No firm answered the Investor Charter question — which means **[OQ-1](../regulation/open-questions.md)
+remains open** and criterion S3 stays held.
+
+**Do not read silence as breach.** A question unanswered in a first reply is a question
+unanswered, nothing more. The 21-day windows from their own Investor Charters run to
+10 September 2026.
