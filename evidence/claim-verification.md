@@ -113,6 +113,16 @@ Held to a higher bar than the rest, because they name organisations.
 | E6 | "Europe has solved this" | ❌ | **Never claim it.** EAA statements are self-declared; enforcement varies by member state; transposition was uneven. WebAIM Million 2026 reports 95.9% of top-million homepages with detected WCAG failures. Any claim that a jurisdiction *meets* the standard is falsifiable in one search. The defensible claim is about **visibility**, not outcomes |
 | E7 | A statement obligation would fix the Indian gap | ⚠️ | Our own data limits this. **Kotak published a statement voluntarily, with no obligation, and it still names no conformance level and no audit date.** A statement requirement produces statements; whether it produces accessible platforms is unanswered |
 
+## Entity responses — received 20 August 2026
+
+| # | Claim | Status | Evidence |
+|---|---|---|---|
+| Z1 | Zerodha serves no `lang` attribute | ✅ | Two independent methods, **and not disputed by the firm on notice** |
+| Z2 | Zerodha has no accessibility-specific grievance channel | ✅ | **Admitted verbatim**: "while we do not currently have a separate portal solely for accessibility". §1.3, in force since 31 Jul 2025, not extended. Confirmed by the entity, not inferred |
+| Z3 | Zerodha committed to fixing the `lang` attribute | ❌ | **Do not claim this.** The reply says the teams will "examine the feasibility" and that it is on an "internal feedback list for future web platform improvement updates". No date, no commitment |
+| Z4 | No Nodal Officer for digital accessibility at Zerodha | ⚠️ | The question was **not answered**. Remains a discoverability finding only; absence of an answer is not evidence of absence of an officer |
+| Z5 | **The four-entity diagnostic ranking reflects accessibility** | ❌ | **Materially misleading and corrected.** Zerodha ships an Accessibility mode on the Kite app — a Settings toggle from v3.1.3 improving TalkBack/VoiceOver compatibility, verified on Zerodha's own support documentation. Mobile is out of scope in rubric v0.1, so the firm ranked last on what we measure while having shipped a deliberate accessibility feature on the surface we cannot see. Label the ranking **web-surface only**, everywhere |
+
 ## Outstanding
 
 - **OQ-3** — the 23 May 2025 KYC circular is still unread against primary text. Until it is,

@@ -44,6 +44,53 @@ accessibility.
 
 **What it does not support:** that the platform is unusable. It is one criterion of many.
 
+### Zerodha's response, received 20 August 2026
+
+The firm replied to a client enquiry. Three things follow from it.
+
+**1. The finding is confirmed, not disputed.** Zerodha did not contest the missing `lang`
+attribute. It has been "reported to our web and technical teams so they can examine the
+feasibility of adding the lang attribute to the HTML elements across zerodha.com and the
+Investor Charter page", and added "to our internal feedback list for future web platform
+improvement updates". No date, and no commitment.
+
+**2. §1.3 is confirmed by the entity's own admission.** Verbatim: *"while we do not currently
+have a separate portal solely for accessibility"*, with clients directed to the standard
+complaint pathway. That obligation has been in force since 31 July 2025 and was not part of
+the October extension. **This is the strongest confirmed finding in the project — not
+inferred from absence, but stated by the firm.**
+
+**3. They told us something that corrects us.** Zerodha reports "a dedicated Accessibility
+mode on the Kite app". **Verified independently:** a Settings toggle introduced in Kite mobile
+3.1.3, documented on Zerodha's own support site, which improves compatibility with TalkBack
+and VoiceOver.
+
+The Nodal Officer question was not answered.
+
+### What that third point does to this comparison — read it before citing the table below
+
+The table in this document ranks Zerodha last of four on diagnostic checks. **That ranking is
+web-only, and it may materially misrepresent this firm.**
+
+Rubric v0.1 puts mobile applications out of scope, because no web scanner reaches them. Kite
+is where most Zerodha clients actually trade. So the one surface we cannot see is the one
+where this firm has shipped a deliberate accessibility feature aimed at exactly the users the
+`lang` finding concerns.
+
+That is not a small caveat. It is the first concrete evidence that the method's stated mobile
+blind spot **distorts results rather than merely limiting them** — a firm can look worst on
+what we measure while having done more than the others on what we do not.
+
+Two consequences:
+
+- **Do not present the diagnostic ranking as an accessibility ranking.** It is a ranking of
+  web-surface checks, and it must be labelled that way wherever it appears.
+- **Mobile moves up the roadmap.** Closing it needs devices and a screen-reader user, which is
+  now the highest-value outstanding task rather than a "wanted" item.
+
+This correction exists because the firm was asked and answered. That is the argument for
+right of reply before publication, not after.
+
 ---
 
 ## Groww — rank 1
