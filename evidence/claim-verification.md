@@ -101,6 +101,18 @@ Held to a higher bar than the rest, because they name organisations.
 | F2 | "Two provisions go further than anything I know of in comparable regimes" | Opinion, hedged. Keep the hedge |
 | F3 | Naming firms | Kotak and UTI are named only for what they chose to publish, quoted verbatim. No firm is named in connection with an unverified scan result |
 
+## EU comparison — added 20 August 2026
+
+| # | Claim | Status | Evidence |
+|---|---|---|---|
+| E1 | **"as the EU's Web Accessibility Directive does"** | ❌ | **Wrong instrument.** The WAD (2016/2102) covers **public sector bodies**. For a financial-services comparison the correct law is the **European Accessibility Act, Directive (EU) 2019/882**. Corrected in the article |
+| E2 | The EAA covers consumer banking services | ✅ | Article 13; consumer banking named explicitly in scope |
+| E3 | The EAA requires public information on how a service meets accessibility requirements | ✅ | Annex V — included in general terms and conditions or equivalent, publicly available, in accessible formats |
+| E4 | The EAA points at WCAG 2.1 AA | ⚠️ | **Indirectly**, via EN 301 549, the harmonised standard. Do not write that the EAA "names WCAG"; it does not. Say it resolves to WCAG 2.1 AA through EN 301 549 |
+| E5 | The EAA has applied since 28 June 2025 | ✅ | |
+| E6 | "Europe has solved this" | ❌ | **Never claim it.** EAA statements are self-declared; enforcement varies by member state; transposition was uneven. WebAIM Million 2026 reports 95.9% of top-million homepages with detected WCAG failures. Any claim that a jurisdiction *meets* the standard is falsifiable in one search. The defensible claim is about **visibility**, not outcomes |
+| E7 | A statement obligation would fix the Indian gap | ⚠️ | Our own data limits this. **Kotak published a statement voluntarily, with no obligation, and it still names no conformance level and no audit date.** A statement requirement produces statements; whether it produces accessible platforms is unanswered |
+
 ## Outstanding
 
 - **OQ-3** — the 23 May 2025 KYC circular is still unread against primary text. Until it is,
