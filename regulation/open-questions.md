@@ -224,7 +224,7 @@ from an absent audit.
   whether IAAP certification is the norm or the exception in India. One conversation with a
   working auditor would answer more than a directory count.
 
-### First practitioner evidence — 20 August 2026
+### First practitioner evidence — 25 August 2026
 
 An **IAAP-WAS certified accessibility practitioner working in India**, asked directly whether
 IAAP certification is the norm or the exception here, replied in substance:

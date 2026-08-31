@@ -44,7 +44,7 @@ accessibility.
 
 **What it does not support:** that the platform is unusable. It is one criterion of many.
 
-### Zerodha's response, received 20 August 2026
+### Zerodha's response, received 31 August 2026
 
 The firm replied to a client enquiry. Three things follow from it.
 

@@ -210,7 +210,7 @@ Two rules follow, and both are now in the harness notes:
 
 ## Right of reply — status, stated accurately
 
-Motilal Oswal Financial Services Limited has **not been contacted** as at 20 August 2026.
+Motilal Oswal Financial Services Limited has **not been contacted** as at 31 August 2026.
 
 This document is published as **working evidence**, not as a finished assessment: it exists
 so that the method can be inspected and disputed before any conclusion is drawn from it. It

@@ -6,6 +6,12 @@ Every factual claim this project makes in public, with its source and its status
 The point of this file is that a claim you cannot source should not survive contact with it.
 Four claims did not, and are recorded below as corrected.
 
+**On dates.** This file carries several. The measurement evidence — the scan, the charter
+corpora, the PDF checks — was retrieved on **20 August 2026**, and those stamps are the
+retrieval dates recorded in `out/scan.json` and `out/charter-verification.json`. Practitioner
+and entity responses arrived later and are dated when received. Where a date appears against a
+claim it is the date that claim's evidence was obtained, never the date it was written up.
+
 **Status key:** ✅ verified against primary text · ⚠️ verified but narrower than first stated
 · ❌ found wrong, corrected · ⏳ not yet verified
 
@@ -101,7 +107,7 @@ Held to a higher bar than the rest, because they name organisations.
 | F2 | "Two provisions go further than anything I know of in comparable regimes" | Opinion, hedged. Keep the hedge |
 | F3 | Naming firms | Kotak and UTI are named only for what they chose to publish, quoted verbatim. No firm is named in connection with an unverified scan result |
 
-## EU comparison — added 20 August 2026
+## EU comparison — added 31 August 2026
 
 | # | Claim | Status | Evidence |
 |---|---|---|---|
@@ -113,7 +119,7 @@ Held to a higher bar than the rest, because they name organisations.
 | E6 | "Europe has solved this" | ❌ | **Never claim it.** EAA statements are self-declared; enforcement varies by member state; transposition was uneven. WebAIM Million 2026 reports 95.9% of top-million homepages with detected WCAG failures. Any claim that a jurisdiction *meets* the standard is falsifiable in one search. The defensible claim is about **visibility**, not outcomes |
 | E7 | A statement obligation would fix the Indian gap | ⚠️ | Our own data limits this. **Kotak published a statement voluntarily, with no obligation, and it still names no conformance level and no audit date.** A statement requirement produces statements; whether it produces accessible platforms is unanswered |
 
-## Entity responses — received 20 August 2026
+## Entity responses — received 31 August 2026
 
 | # | Claim | Status | Evidence |
 |---|---|---|---|
@@ -121,6 +127,8 @@ Held to a higher bar than the rest, because they name organisations.
 | Z2 | Zerodha has no accessibility-specific grievance channel | ✅ | **Admitted verbatim**: "while we do not currently have a separate portal solely for accessibility". §1.3, in force since 31 Jul 2025, not extended. Confirmed by the entity, not inferred |
 | Z3 | Zerodha committed to fixing the `lang` attribute | ❌ | **Do not claim this.** The reply says the teams will "examine the feasibility" and that it is on an "internal feedback list for future web platform improvement updates". No date, no commitment |
 | Z4 | No Nodal Officer for digital accessibility at Zerodha | ⚠️ | The question was **not answered**. Remains a discoverability finding only; absence of an answer is not evidence of absence of an officer |
+| I1 | ICICI Securities has responded substantively | ❌ | **Not yet.** A holding acknowledgement was received **29 August 2026** from ICICI Bank's Office of Head Service Quality, stating the complaint concerns ICICI Securities and that "we are arranging for our official from ICICI Securities to revert". No question answered. The 21-day clock from the enquiry has **not** stopped |
+| I2 | The enquiry reached the right entity first time | ❌ | It did not. The reply confirms it was routed via **ICICI Bank**, then referred internally to ICICI Securities. Worth noting neutrally: for a group with a bank and a broker, an accessibility enquiry crossing entity boundaries is a routing question, not a finding against either |
 | Z5 | **The four-entity diagnostic ranking reflects accessibility** | ❌ | **Materially misleading and corrected.** Zerodha ships an Accessibility mode on the Kite app — a Settings toggle from v3.1.3 improving TalkBack/VoiceOver compatibility, verified on Zerodha's own support documentation. Mobile is out of scope in rubric v0.1, so the firm ranked last on what we measure while having shipped a deliberate accessibility feature on the surface we cannot see. Label the ranking **web-surface only**, everywhere |
 
 ## Outstanding
