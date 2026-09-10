@@ -145,6 +145,26 @@ Held to a higher bar than the rest, because they name organisations.
 | I2 | The enquiry reached the right entity first time | ❌ | It did not. The reply confirms it was routed via **ICICI Bank**, then referred internally to ICICI Securities. Worth noting neutrally: for a group with a bank and a broker, an accessibility enquiry crossing entity boundaries is a routing question, not a finding against either |
 | Z5 | **The four-entity diagnostic ranking reflects accessibility** | ❌ | **Materially misleading and corrected.** Zerodha ships an Accessibility mode on the Kite app — a Settings toggle from v3.1.3 improving TalkBack/VoiceOver compatibility, verified on Zerodha's own support documentation. Mobile is out of scope in rubric v0.1, so the firm ranked last on what we measure while having shipped a deliberate accessibility feature on the surface we cannot see. Label the ranking **web-surface only**, everywhere |
 
+## Article v3 — new claims, 10 September 2026
+
+v3 removes every named regulated entity except Kotak (credited, critique moved off it) and
+adds a three-jurisdiction comparison plus anonymised broker correspondence.
+
+| # | Claim | Status | Evidence |
+|---|---|---|---|
+| U1 | No US financial regulator — SEC or FINRA — has issued a digital accessibility rule for broker-dealers | ✅ | Searched 10 Sep 2026; none found. The SEC has referenced "applicable accessibility-related requirements under the ADA" in an adopting release, which is deference, not a rule |
+| U2 | DOJ withdrew its Title III web-accessibility rulemaking in December 2017 and never revived it | ✅ | Federal Register, 26 Dec 2017, "Notice of Withdrawal of Four Previously Announced Rulemaking Actions" |
+| U3 | The 2024 Title II rule sets WCAG 2.1 AA and applies only to state and local government | ✅ | Federal Register 24 Apr 2024; ADA.gov fact sheet |
+| U4 | Title II compliance deadlines were pushed to 2027–28 | ✅ | Federal Register 20 Apr 2026, interim final rule extending by one year: large entities 26 Apr 2027, small 26 Apr 2028 |
+| U5 | *Robles v. Domino's* established that the ADA reaches websites | ✅ | 9th Cir. Jan 2019; cert denied Oct 2019; district court ordered WCAG 2.0 compliance Jun 2021; settled Jun 2022 |
+| U6 | Title III web suits reached a three-year high in 2025 | ⚠️ | From law-firm commentary (Morgan Lewis, Nov 2024 onward). **Cite the source in the piece or soften to "rose sharply"** |
+| U7 | "Same standard, three times" | ⚠️ | India names WCAG 2.1; EU reaches WCAG 2.1 AA via EN 301 549; US courts reference WCAG 2.0/2.1 without a rule. **Defensible as shorthand; do not write that the US "mandates" WCAG** |
+| B1 | All four brokers asked replied within their charter windows | ✅ | Z, P, I (holding), H — all by 10 Sep. ICICI's substantive reply had not arrived; the holding note counts as a reply, and the piece says "a holding note and nothing further within the window" |
+| B2 | "One of these firms appears to have done exactly what the circular asks" | ⚠️ | HDFC's own statement (H4). **Not independently verifiable**, and the piece says "appears". Never harden to "has done" |
+| B3 | Anonymised identities are not recoverable | ⚠️ | "One of India's two largest brokers" narrows to Groww or Zerodha. The `lang` defect and Kite accessibility mode identify Zerodha to anyone who checks. **Accepted**: every fact is verified and one is the firm's own admission; anonymity here is courtesy, not concealment |
+| PR1 | Practitioner paraphrase on IAAP not being the norm in India | ⏳ | **ATTRIBUTION CONSENT NOT YET RECEIVED.** Paraphrased as background with no name. Confirm before publication or remove |
+| K2 | The vendor-guide critique is anonymised singular, not "several guides" | ✅ | Only one guide was verified as carrying the stale date after the extension. "Several" would be false |
+
 ## Outstanding
 
 - **OQ-3** — the 23 May 2025 KYC circular is still unread against primary text. Until it is,
