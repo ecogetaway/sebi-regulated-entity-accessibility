@@ -123,6 +123,25 @@ ways by people whose job is to read it. **It weakens the confidence of the "this
 omission" reading**, and is a reason to close OQ-1 properly rather than settle it by
 inference.
 
+### First regulated-entity evidence — received by 10 September 2026
+
+Asked directly, as a client, whether it was awaiting a revised model charter from SEBI or
+adding the section itself, **one of the ten brokers answered in writing**:
+
+> "The Investor Charter will be updated to incorporate 'Investors' Right to have digital
+> accessibility' as per SEBI's model text or guidance."
+
+That is a Regulated Entity stating that the update follows **SEBI's model text** — the
+reading this question has rested on since 20 August. It is one firm, and "model text or
+guidance" leaves some room. But it is the first entity voice on the question, it points the
+same way as SEBI's own unchanged charter and the February 2025 circular, and it cuts against
+the practitioner reading recorded above.
+
+**OQ-1 is now substantially resolved toward the regulator.** S3 stays held until a second
+entity says the same or SEBI's charter is seen to change — but the weight of evidence has
+shifted from "no evidence either way" through "substantial evidence" to "an entity confirms
+it".
+
 ### Note on secondary coverage
 
 Several published guides state that SEBI "updated its Investor Charters", in the past tense.
