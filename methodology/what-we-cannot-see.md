@@ -14,8 +14,8 @@ There is no public register of who has complied. No published audit report. No r
 to publish an accessibility statement, a conformance claim, a VPAT, or a remediation plan.
 
 Of the twenty-four obligations in [`../regulation/obligations.md`](../regulation/obligations.md),
-**eleven cannot be observed from outside at all**, and nine more become observable only if
-an entity volunteers.
+**fourteen cannot be observed from outside at all**, and seven of those become partially
+observable only if an entity volunteers.
 
 ## What follows
 

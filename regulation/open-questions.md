@@ -29,7 +29,8 @@ So: has SEBI actually issued a revised model Investor Charter carrying this righ
 
 ### Why it is held rather than scored
 
-The August 2026 baseline found the right in **zero of eleven** brokers' Investor Charters.
+The August 2026 baseline found the right in **zero of ten** brokers' Investor Charters (an
+eleventh, 5paisa, blocks automated retrieval and was not checked).
 Every charter checked was the standard SEBI template verbatim. The only adjacent item is
 clause XVII, "Get access to products and services in a suitable manner even if differently
 abled" — which predates the accessibility circulars entirely and says nothing about digital
@@ -39,12 +40,12 @@ That result has two completely different readings, and we cannot yet tell which 
 
 | If SEBI **has** amended the model charter | If SEBI **has not** |
 |---|---|
-| Eleven entities have failed to adopt an updated template that was available to them | Eleven entities are correctly using the template their regulator publishes |
+| Ten entities have failed to adopt an updated template that was available to them | Ten entities are correctly using the template their regulator publishes |
 | S3 is a finding about the entities | S3 is a finding about SEBI |
 | Score it | Do not score it — reword it as a regulator finding |
 
 Scoring S3 against entities while the second column might be true would be attributing a
-regulator's omission to eleven firms. That is exactly the error this project's method exists
+regulator's omission to ten firms. That is exactly the error this project's method exists
 to prevent, so the criterion stays held until the question is settled.
 
 ### What would resolve it
@@ -102,7 +103,7 @@ predates the clarification that promised the right by nine months.
 
 Taken together the evidence now points clearly one way: **SEBI appears not to have amended
 the Investor Charter it publishes.** If that holds, the finding is about the regulator —
-eleven brokers are correctly using the template their regulator gives them, and a right
+ten brokers are correctly using the template their regulator gives them, and a right
 SEBI announced in December 2025 has not reached a single investor charter eight months
 later, ten weeks before the compliance deadline.
 

@@ -14,7 +14,7 @@ Three things are true at once:
 
 2. **Compliance is invisible.** Every submission goes by email to SEBI, an exchange or a
    depository. No public register, no published audit, no accessibility-statement
-   obligation. Eleven of the twenty-four obligations cannot be observed from outside at all.
+   obligation. Fourteen of the twenty-four obligations cannot be observed from outside at all.
 
 3. **The public record is explanation, not measurement.** Accessibility vendors have
    published extensively on what SEBI requires — the explainer is lead generation for audit

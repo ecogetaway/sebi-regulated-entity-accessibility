@@ -47,6 +47,7 @@ prominently: **a journey blocked at authentication is not 30% accessible, it is 
 
 ## Status
 
-Step 1 is complete for the August 2026 baseline across eleven brokers. Steps 2–10 require
+Step 1 is complete for the August 2026 baseline across ten brokers; an eleventh, 5paisa,
+blocks automated access and is recorded as unmeasured. Steps 2–10 require
 account access and have not been run. No person with a disability has yet run any step;
 until that changes, results are an informed simulation and must be labelled as one.

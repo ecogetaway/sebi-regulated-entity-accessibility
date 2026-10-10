@@ -465,14 +465,14 @@ There is no public register of who has complied. No published audit reports. No 
 
 ## What that means in practice
 
-Break the circulars into their individual obligations — there are about two dozen — and sort them by whether anybody outside the firm could check them.
+Break the circulars into their individual obligations — there are twenty-four — and sort them by whether anybody outside the firm could check them.
 
-- Roughly seven can be checked from published material.
-- About four can be tested on the live app or website.
+- Five can be checked from published material.
+- Three can be tested on the live app or website.
 - Two need an account with the firm.
-- **Around eleven cannot be observed from outside at all.**
+- **Fourteen cannot be observed from outside at all.**
 
-Nine of those eleven would become visible if a firm chose to publish. None is required to.
+Seven of those fourteen would become visible if a firm chose to publish. None is required to.
 
 So Kavya, deciding between two brokers, has no way to find out which one has done the work. The regulation created an entitlement and no way to shop on it.
 
@@ -508,7 +508,7 @@ And one route works today regardless: the Accessibility category on SCORES exist
 
 - Every compliance filing goes privately by email to SEBI, an exchange, or a depository.
 - Nothing requires a firm to publish anything: no register, no audit, no statement.
-- Of roughly two dozen obligations, about eleven cannot be checked from outside at all.
+- Of twenty-four obligations, fourteen cannot be checked from outside at all.
 - SEBI's own Investor Charter does not yet contain the accessibility right it announced in December 2025, so no broker's charter does either.
 - None of this weakens your underlying right, which rests on the Constitution and the circulars, not on the charter.
 

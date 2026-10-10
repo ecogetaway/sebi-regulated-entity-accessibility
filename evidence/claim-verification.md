@@ -4,7 +4,8 @@ Every factual claim this project makes in public, with its source and its status
 20 August 2026.
 
 The point of this file is that a claim you cannot source should not survive contact with it.
-Four claims did not, and are recorded below as corrected.
+The claims that did not are recorded below as corrected (❌), including one found on
+10 October 2026, after publication of this log: row R18.
 
 **On dates.** This file carries several. The measurement evidence — the scan, the charter
 corpora, the PDF checks — was retrieved on **20 August 2026**, and those stamps are the
@@ -38,7 +39,7 @@ claim it is the date that claim's evidence was obtained, never the date it was w
 | R15 | The circulars prescribe no penalty | ✅ | Issued under s.11(1); no penalty clause in any circular read |
 | R16 | **"Six circulars"** | ❌ | Contestable. SEBI's own December clarification references **three** prior circulars, and the July 2026 extension references four. The 23 May 2025 KYC circular is a **different series** (MIRSD, not ITD). **Corrected to:** "five digital accessibility circulars, preceded by a KYC circular in May 2025" |
 | R17 | "Nothing in *six* circulars requires publication" | ❌ | Cannot be asserted — the 23 May 2025 KYC circular has **not been read against primary text** (see OQ-3). **Corrected to** a claim about the five circulars actually read |
-| R18 | 24 obligations: 7 public, 4 artifact, 2 client-side, 11 not observable | ✅ | Own classification, published in `regulation/obligations.md`. Presented as a classification, not a finding of fact |
+| R18 | **"24 obligations: 7 public, 4 artifact, 2 client-side, 11 not observable"** | ❌ | The summary line in `regulation/obligations.md` did not match the register's own rows, and this row was ticked without recounting them. Recounted row by row on 10 Oct 2026: **5 public (O22 split, counted public), 3 artifact, 2 client, 14 not observable**, of which **7** (not nine) become partially observable if an entity publishes. **Corrected throughout**, logged in `CORRECTIONS.md`. Still a classification, not a finding of fact |
 
 ## The Investor Charter finding
 

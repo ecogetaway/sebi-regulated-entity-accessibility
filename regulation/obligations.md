@@ -51,12 +51,18 @@ C4 = 25 Sep 2025 · C5 = 8 Dec 2025 · C6 = 31 Jul 2026. See
 
 ## What the register shows
 
-Of 24 obligations, **7 are publicly observable, 4 are testable on the artifact, 2 require a
-client account, and 11 are not observable from outside at all.**
+Of 24 obligations, **5 are publicly observable, 3 are testable on the artifact, 2 require a
+client account, and 14 are not observable from outside at all.** O22 is split: whether an
+entity signposts SCORES can be checked; whether complaints are resolved cannot. It is counted
+as public.
 
-Nine of those eleven become partially observable *if the entity chooses to publish* — an
-audit summary naming its auditor and date, a remediation note, a training statement. None
-is required to. That asymmetry is the research finding this repository exists to document:
+Seven of those fourteen (O2, O4, O12, O13, O14, O16, O23) become partially observable *if the
+entity chooses to publish* — an audit summary naming its auditor and date, a remediation
+note, a named nodal officer. None is required to.
+
+*Corrected 10 October 2026. This summary previously read 7 / 4 / 2 / 11 and "nine of those
+eleven", which did not match the rows of the table above. The table was not changed; the
+summary now counts it. See [`../CORRECTIONS.md`](../CORRECTIONS.md).* That asymmetry is the research finding this repository exists to document:
 the regulation created a substantial obligation and no public accountability surface.
 
 ## Open questions

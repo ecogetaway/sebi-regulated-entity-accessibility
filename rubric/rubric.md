@@ -127,10 +127,10 @@ never reported as non-compliance.
 **3a. Held is not zero either.** A criterion whose *interpretation* is unresolved — as
 opposed to one that could not be tested — is marked **held**, linked to its entry in
 [`../regulation/open-questions.md`](../regulation/open-questions.md), and excluded from the
-profile. S3 is held under OQ-1: eleven of eleven entities lack the Investor Charter right,
+profile. S3 is held under OQ-1: all ten entities checked lack the Investor Charter right,
 but SEBI may not have amended the template it publishes, in which case the finding belongs
 to the regulator. Scoring it against entities meanwhile would attribute a regulator's
-omission to eleven firms.
+omission to ten firms.
 
 **3. Unmeasured is not zero.** A criterion that could not be tested — no account, blocked to
 automation, internal process — is reported as *unmeasured* and excluded from the profile.
@@ -170,8 +170,8 @@ text, never screenshots.
   before publication.)*
 - **Mobile apps are out of scope in v0.1.** Every major broker ships native iOS and Android
   apps that no web scanner reaches. Testing them needs devices and a screen-reader user.
-- Eleven of the twenty-four obligations in the register are not observable from outside at
-  all.
+- Fourteen of the twenty-four obligations in the register are not observable from outside
+  at all.
 - No person with a disability has yet tested anything in this repository. Until that
   changes, the Investor Journey dimension is an informed simulation, and must be labelled
   as one.
