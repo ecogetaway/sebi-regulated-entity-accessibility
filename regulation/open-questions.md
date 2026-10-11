@@ -264,9 +264,9 @@ pool in India, while the market is served mainly by two others. That is a constr
 by drafting, not by capacity — and the mechanism is cost: DHS Trusted Tester is free, IAAP
 certification is not.
 
-**Attribution status: NOT YET GRANTED.** The practitioner has not been asked whether she may
-be named. She is deliberately unnamed here and must stay unnamed until she agrees. Anyone
-working from this file: do not attribute this without consent on record.
+**Attribution status: consent given, unnamed (11 October 2026).** The practitioner agreed to
+the paraphrase being used without their name, after seeing the exact wording. Do not name
+them, here or anywhere else.
 
 **Still needed to move this from indicative to established:** the IAAP certificant directory
 count for India, the DEPwD empanelment list for comparison, and two or three more practitioner

@@ -163,7 +163,7 @@ adds a three-jurisdiction comparison plus anonymised broker correspondence.
 | B1 | All four brokers asked replied within their charter windows | ✅ | Z, P, I (holding), H — all by 10 Sep. ICICI's substantive reply had not arrived; the holding note counts as a reply, and the piece says "a holding note and nothing further within the window" |
 | B2 | "One of these firms appears to have done exactly what the circular asks" | ⚠️ | HDFC's own statement (H4). **Not independently verifiable**, and the piece says "appears". Never harden to "has done" |
 | B3 | Anonymised identities are not recoverable | ⚠️ | "One of India's two largest brokers" narrows to Groww or Zerodha. The `lang` defect and Kite accessibility mode identify Zerodha to anyone who checks. **Accepted**: every fact is verified and one is the firm's own admission; anonymity here is courtesy, not concealment |
-| PR1 | Practitioner paraphrase on IAAP not being the norm in India | ⏳ | **ATTRIBUTION CONSENT NOT YET RECEIVED.** Paraphrased as background with no name. Confirm before publication or remove |
+| PR1 | Practitioner paraphrase on IAAP not being the norm in India | ✅ | **Consent given 11 Oct 2026 to use it unnamed.** The practitioner saw the exact paragraph before agreeing. Never name them. Wording matches the reply: "smaller but growing", not "small and growing" |
 | K2 | The vendor-guide critique is anonymised singular, not "several guides" | ✅ | Only one guide was verified as carrying the stale date after the extension. "Several" would be false |
 
 ## Outstanding
